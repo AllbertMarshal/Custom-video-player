@@ -1,1 +1,1 @@
-# dinamic image slider 
+# dynamic image slider 
