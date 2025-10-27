@@ -1,1 +1,1 @@
-# Custom-video-player
+# dinamic image slider 
